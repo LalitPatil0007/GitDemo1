@@ -1,0 +1,16 @@
+%CHNG: % change is calculated with respect to adjusted price on ex-date for Corporate Actions like: Dividend, Bonus, Rights & Face Value Split.
+52 W H/L: 52 week High & Low prices are adjusted for Bonus, Split & Rights Corporate actions.
+The legend for the 52-week H/L indicator is given below:
+for Stocks closer to 52-week high :
+- within 0% and 2%
+- within 2% and 5%
+- within 5% and 7%
+Symbols for Stocks closer to 52-week low :
+- within 0% and 2%
+- within 2% and 5%
+- within 5% and 7%
+In case, any of the index constituent undergo a scheme of arrangement (e.g. demerger), such stock will not be displayed under ‘Market Watch - Equity/ Stock’ section during Special Pre-Open session and it will be displayed post resumption of trading of such stock under ‘Normal’ market.
+Index value is calculated based on previous closing price of Demerging stock. Click here to view the list of index constituents.
+Data is displayed for securities where orders have been received during the pre-open session.
+Trade Timings for T+0 settlement : One continuous trading session from 09:15 AM to 1:30 PM.
+Price Band for T+0 settlement: Price band of +/- 1% (100 Basis points) based on close price of corresponding T+1 settled security, which will be re-calibrated throughout the trading hours after +/- 0.5% (50 basis points) movement in the LTP of T+1 settled security in the regular market.
